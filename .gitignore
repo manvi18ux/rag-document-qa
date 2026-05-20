@@ -1,0 +1,17 @@
+# Uploaded files
+data/
+*.pdf
+
+# Vector database
+vectorstore/
+*.faiss
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+venv/
+.env
